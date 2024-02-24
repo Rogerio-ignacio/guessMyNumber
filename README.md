@@ -1,2 +1,1 @@
-Meu primeiro jogo feito em JS, o jogo consiste em vc digitar um número de 1 - 20 até acertar o número escondido por trás da ?. A cada erro seus pontos, 20, diminuem em 1.
-quando vc acerta o jogo para e vc ganha. Sua maior pontuação é salva em highscore.
+Meu primeiro projeto feito em JS, o jogo consiste em vc digitar um número (1 - 20) para tentar acertar o número escondido por trás da interrogação (?). A cada erro seus pontos (20) são subtraídos em 1. Quando vc acerta o número por trás da ? o jogo acaba e você ganha, caso erre até seus vinte pontos acabarem, perderá o jogo. Obs: Sua maior pontuação é salva em highscore.
